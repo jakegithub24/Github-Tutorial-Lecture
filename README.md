@@ -1,2 +1,3 @@
 # Github-Tutorial-Lecture
-Simple github demonstration for clearing basic fundamentals of github.
+
+**Description :** Simple github demonstration for clearing basic fundamentals of github.
